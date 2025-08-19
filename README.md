@@ -1,9 +1,8 @@
 # Práctica I - Sistema de Gestión de Biblioteca
 
 ## Integrantes del grupo
-- Jaime Mendoza Alean  
+- Jairo andres ariza
 - Mateo Duque Restrepo  
-- Juan Pablo Rojas  
 
 ## Plataforma utilizada
 - Windows 11 con GHC (Glasgow Haskell Compiler)
